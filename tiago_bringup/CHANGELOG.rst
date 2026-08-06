@@ -2,6 +2,31 @@
 Changelog for package tiago_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.1.3 (2026-04-24)
+------------------
+* revert not necessary comment on gazebo version
+* Contributors: ileniaperrella
+
+5.1.2 (2026-04-24)
+------------------
+* add calibration_tool parameter
+* Contributors: susannamastromauro
+
+5.1.1 (2026-04-13)
+------------------
+
+5.1.0 (2026-04-10)
+------------------
+
+5.0.0 (2026-03-05)
+------------------
+* Add pal configuration
+* Switch to pal_joy + fix gravity name + Add axes actions
+* Add assisted teleop + fix turbo reset + enable neck
+* Update button combos
+* Update joystick layout
+* Contributors: thomas.peyrucain, thomaspeyrucain
+
 4.24.1 (2026-01-29)
 -------------------
 
