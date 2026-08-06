@@ -2,6 +2,30 @@
 Changelog for package tiago_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.1.3 (2026-04-24)
+------------------
+* revert sign on arm_6_joint wrt standards
+* revert not necessary comment on gazebo version
+* Contributors: ileniaperrella
+
+5.1.2 (2026-04-24)
+------------------
+* add calibration_tool parameter
+* Contributors: susannamastromauro
+
+5.1.1 (2026-04-13)
+------------------
+* Fix link position
+* Contributors: thomaspeyrucain
+
+5.1.0 (2026-04-10)
+------------------
+* Add support for new gazebo
+* Contributors: thomaspeyrucain
+
+5.0.0 (2026-03-05)
+------------------
+
 4.24.1 (2026-01-29)
 -------------------
 * Use package instead of find for meshes lookup
